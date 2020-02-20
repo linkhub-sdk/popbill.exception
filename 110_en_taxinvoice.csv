@@ -1,0 +1,261 @@
+-11000000,Information of e-Tax invoice/e-invoice does not exist.
+-11000001,해당The business is not associated with the applicable e-Tax invoice/e-invoice.
+-11000002,Actor is Required to Log.
+-11000003,Status value of search criteria should be at least one.
+-11000004,This branch is not registered.
+-11000005,e-Tax invoice/e-Invoice Information of this invoice id doesn’t exist.
+-11000006,Itemkey should not be null or empty.
+-11000007,You are not a user related to this e-Tax invoice/e-Invoice.
+-11000008,You don’t have an authority to check invoices.
+-11000009,You don’t have an authority to check invoices.
+-11000010,Set the search scope as within a year.
+-11000011,To issue an e-Tax invoice is restricted because of inspection. Please retry it after the inspection.
+,
+,
+-11001000,User’s information is not matched with the information written on the e-Tax invoice.
+-11001001,Date of trading is not entered.
+-11001002,Supply cost and a method to calculate the tax are not entered.
+-11001003,A issuance type is not entered.
+-11001004,The purpose of e-Tax invoice is not entered. Enter one of 영수(Receipt) /청구(Charge).
+-11001005,A taxation type is not entered.
+-11001006,Payment by invoicee(buyer) is only available in requested e-Tax invoice issuance process.
+-11001007,"If the invoicee(buyer) is a foreigner, enter the foreigner registration number or passport number in remark1."
+-11001008,"If taxation type is the taxation, e-Tax invoice’s tax value can not be ‘0’."
+-11001009,A modification code is incorrect.
+-11001010,An e-Tax invoice for modification caused by ‘Return’ and ‘Revocation of contract’ is only registered with minus amount of supply cost and taxation.
+-11001011,An e-Tax invoice/e-invoice’s form is incorrect.
+-11001012,Payment method is not entered. Enter one of (정)과금(payment by seller)/역과금(payment by buyer).
+-11001013,Seller’s business registration number is not entered.
+-11001014,Seller’s business registration number is incorrect.
+-11001015,Seller’s company name is not entered.
+-11001016,CEO name of seller’s company is not entered.
+-11001018,Name of the person in charge of seller is incorrect.
+-11001019,Seller’s branch number is 4 digits.
+-11001020,Buyer’s business registration number is not entered.
+-11001021,Buyer’s business registration number is incorrect.
+-11001022,Buyer’s company name is not entered.
+-11001023,CEO name of buyer company is not entered.
+-10001025,Name of the person in charge of buyer’s is incorrect.
+-11001026,Buyer’s branch number is 4 digits.
+-11001027,Trustee’s business registration number is not entered.
+-11001028,Trustee’s business registration number is incorrect.
+-11001029,Trustee’s company name is not entered.
+-11001030,CEO name of trustee’s company is not entered.
+-11001032,Name of the person in charge of trustee is incorrect.
+-11001033,Trustee’s branch number is 4 digits.
+-11001034,Taxation value of zero-rate e-Tax invoice should be entered as ’0’.
+-11001035,Seller invoice id is incorrect.
+-11001036,Buyer invoice id is incorrect.
+-11001037,Trustee invoice id is incorrect.
+-11001038,Entered seller invoice id have already enrolled.
+-11001039,Entered buyer invoice id have already enrolled.
+-11001040,Entered trustee invoice id have already enrolled.
+-11001041,Supply cost is not entered.
+-11001042,Taxation value is not entered.
+-11001043,Total amount is not entered.
+-11001044,Total amount should be same with the sum of supply cost and taxation value.
+-11001045,Plus/minus sign of supply cost is not same with of tax value.
+-11001046,"Sum of cash, check, note and credit should be same with the total amount."
+-11001047,Total number of items’ list in invoice should be under 99.
+-11001048,Serial number of a list is not entered or it is out of the range.
+-11001049,Supply cost of a list should be under 18 letters.
+-11001050,Item's quantity should be below 12 digits (available to two decimal places).
+-11001051,Item's unit cost should be below 18 digits (available to two decimal places).
+-11001052,Item's taxation value should be below 18 digits.
+-11001053,Buyer's type is not entered.
+-11001054,"In case of the e-Tax invoice for modification, the process of requested e-Tax invoice issuance can not be applied."
+-11001055,Original e-Tax invoice/e-invoice doesn't exist.
+-11001056,Filing of original e-Tax invoice/e-invoice doesn't finish yet.
+-11001057,Issuer's business registration number is not same with the original’s.
+,
+-11001058,Seller's business registration number is same with the buyer's.
+-11001059,Trustee’s business registration number is same with the seller's.
+-11001060,Trustee's business registration number is same with the buyer's.
+-11001061,"If buyer type is the business, 10 digits' number should be entered as a business registration number."
+-11001062,"If buyer type is the individual business, 13 digits' number should be entered as a resident registration number."
+-11001063,"If buyer type is the foreigner, '999999-9999999' should be entered as a registration number."
+-11001064,Item's name should be below 100 letters.
+-11001065,[Being ready to issue] Issuance type is not entered.
+-11001066,Seller's business type should be below 100 letters.
+-11001067,Seller's business item should be below 100 letters.
+-11001068,Buyer's business type should be below 100 letters.
+-11001069,Buyer's business item should be below 100 letters.
+-11001070,Trustee's business type should be below 100 letters.
+-11001071,Trustee's business item should be below 100 letters.
+-11001072,"In case of zero-rate or exempt e-Tax invoice/e-invoice, taxation value should be none or '0'."
+-11001073,The taxation value of invoice is same with the sum of items'.
+-11001074,The person in charge can be added until 10 people.
+-11001075,Name of the person in charge is not entered.
+-11001076,Email address of the person in charge is not entered.
+-11001077,"In case of zero-rate or exempt e-Tax invoice/e-invoice, items’ taxation value should be none or '0'."
+-11001078,Information of e-Tax invoice is not entered.
+-11001079,Information of the original e-Tax invoice is not entered in an e-Tax invoice for modification.
+-11001080,Exemption e-Tax invoice for modification should be registered with exemption.
+-11001081,Taxation/zero-rate e-Tax invoice for modification should be registered wit taxation/zero rate.
+-11001082,Seller's company name should be below 200 letters.
+-11001083,Seller's CEO name should be below 100 letters.
+-11001084,Seller's address should be below 300 letters.
+-11001085,Seller's contact should be below 20 digits.
+-11001086,Seller's e-mail address should be below 100 letters.
+-11001087,Seller's memo should be below 200 letters.
+-11001088,Buyer's company name should be below 200 letters.
+-11001089,Buyer's CEO name should be below 100 letters.
+-11001090,Buyer's address should be below 300 letters.
+-11001091,Buyer's contact should be below 20 digits.
+-11001092,Buyer's e-mail address should be below 100 letters.
+-11001093,Buyer's memo should be below 200 letters.
+-11001094,Trustee's company name should be below 200 letters.
+-11001095,Trustee's CEO name should be below 100 letters.
+-11001096,Trustee's address should be below 300 letters.
+-11001097,Trustee's contact should be below 20 digits.
+-11001098,Trustee's e-mail address should be below 100 letters.
+-11001099,Trustee's memo should be below 200 letters.
+-11001100,Remark1 should be below 150 letters.
+-11001101,Remark2 should be below 150 letters.
+-11001102,Remark3 should be below 150 letters.
+-11001103,Date of trading is incorrect.
+-11001104,Entered seller's business registration number is not same with the original's
+-11001105,Item's serial numbers are duplicated.
+-11001106,Serial number of the person in charge is not entered or it is out of range.
+-11001107,Serial numbers of the person in charge are duplicated.
+-11001108,Buyer's resident registration number is incorrect.
+-11001109,Seller's department name should be below 100 letters.
+-11001110,Buyer's department name should be below 100 letters.
+-11001111,Trustee's department name should be below 100 letters.
+-10001112,The sum of taxation value in e-Tax invoice should be within 10 percent of total supply value’s ±10 won.
+-11002001,You are not the registrant of this e-Tax invoice.
+-11002002,Only saved e-Tax invoice/e-invoice can be modified.
+-11002003,Only the registrant of saved e-Tax invoice/e-invoice can delete it.
+-11002004,Business registration number is not matched with e-Tax invoice/e-invoice.
+-11002005,It is not a deletable status.
+-11002006,Requested e-Tax invoice can not be a status being ready to issue.
+-11002007,Only the registrant can make e-Tax invoice be ready to issue.
+-11002008,It is not available to make e-Tax invoice be ready to issue now.
+-11002009,To issue e-Tax invoice/e-invoice with date of registration in the future is not available.
+-11002010,e-Tax invoice for modification caused by ex post creation of local credit can not be issued after the 20th of the next month as from the date of registration.
+,
+-11002011,Only trustee can issue it.
+-11002012,Only buyer can issue it.
+-11002013,It’s not a status to issue.
+-11002014,This e-Tax invoice is not available to issue because it’s an overdue.
+-11002015,Additional tax will be charged to this e-Tax invoice because it’s an overdue.
+-11002016,Request to issue an e-Tax invoice is only available in process of requested e-Tax invoice issuance.
+-11002017,Only buyer can request to issue an e-Tax invoice to seller.
+-11002018,It’s not a status to request to issue an e-Tax invoice.
+-11002019,Only buyer can cancel to request to issue an e-Tax invoice.
+-11002020,Only trustee can cancel to issue an delegated e-Tax invoice.
+-11002021,Only seller can cancel to issue an e-Tax invoice.
+-11002022,It’s not available to cancel.
+-11002023,To confirm to issue an e-Tax invoice is not available.
+-11002024,Only buyer can confirm to issue an e-Tax invoice.
+-11002025,It’s not available to confirm the issuance.
+-11002026,[Being ready to issue] Only buyer can refuse to issue an e-Tax invoice.
+-11002027,Only seller can refuse to request to issue an e-Tax invoice.
+-11002028,It’s not available to refuse.
+-11002029,e-Tax invoice for modification registered automatically can not be modified.
+-11002030,It’s not available to cancel the issuance.
+-11002031,The certificate required for automatic issuance when a buyer have confirmed an e-Tax invoice is not registered or it is invalid.
+-11002032,Only buyer can check e-Tax invoice/e-invoice.
+-11002033,It's not available to check.
+-11002034,It have been checked by buyer.
+-11002035,e-Tax invoice/e-invoice registered by API can not be modified.
+-11002036,파트너에To delete an e-Tax invoice is restricted by the partner.
+-11002037,"개인The person only in charge of e-Tax invoices he/she registered, can delete e-Tax invoice/e-invoice he/she registered."
+-11002038,Issuance cancellation is only available to (general) e-Tax invoice.
+-11002039,Cancellation of request for issuance is only available to requested e-Tax invoice.
+-11002040,This e-Tax invoice/e-invoice have been confirmed.
+-11002041,To refuse to issue an e-Tax invoice is only available to requested e-Tax invoice.
+-11002042,It's not available to refuse to issue an e-Tax invoice.
+-11002043,Only (general) e-Tax invoice can be refused.
+-11002044,The e-Tax invoice/e-invoice registered by external XML can not be modified.
+-11002045,Paper invoice can not be modified.
+-11002046,Handling of e-Tax invoice registered by external XML is not available.
+-11002047,Handling of paper invoice is not available.
+-11002048,Deletion of e-invoice registered from external is only available by the company registered that e-invoice.
+-11002049,This e-Tax invoice registered by API is not available to be ready to issue with the current user information.
+-11002050,This e-Tax invoice registered by API is not available to issue with the current user information.
+-11002051,This e-Tax invoice have been issued.
+,
+-11003000,TaxinvoiceSigner is null
+-11003001,JSON PARSING ERROR
+-11003002,Hash value checking error occurred during issuance.
+-11003003,E-sign creation error occurred during issuance.
+-11003004,To make a validation of e-sign is failed.
+-11003005,To check certificate information is failed.
+-11003006,Not signed successfully.
+-11003007,XML Validation - verification of XML schema failed.
+-11003008,XML Validation - certificate extraction failed.
+-11003009,XML XML Validation - It's not signed by the issuer's certificate.
+-11003010,XML Validation - VID confirmation failed.
+-11003011,XML Validation - An e-signature error occurred.
+-11003012,XML Validation - An unknown hash algorithm error occurred.
+-11003013,XML Validation - Hash value mismatch error occurred.
+-11003014,Validation - E-sign validation error occurred.
+-11003015,XML signature verification failed.
+-11003016,XML Canonicalization Fail.
+-11003017,UNKNOWN HASH ALGORITHM.
+-11003018,There is no signed XML document.
+,
+-11004001,This e-Tax invoice/e-invoice is not available to file to NTS.
+-11004002,It's not a status to be filed to NTS.
+-11004003,Only the registrant can file an e-Tax invoice/e-invoice to NTS.
+-11004004,There is no e-signed XML document to be filed to NTS.
+-11004005,This e-Tax invoice/e-invoice is filing to NTS now or have been filed already.
+-11004006,An error occurred before filing.
+-11004007,NOPUBLICKEY IN DB
+-11004008,NO SUBMITID REGISTERED
+-11004009,국세청의 시스템 작업으로 인해 2015년 2월 17일 22시 55분 부터 2015년 2월 23일 00시 05분 까지 국세청 즉시전송이 제한됩니다. 해당 기간에 정상발행된 (세금)계산서는 23일에 전송됩니다.
+-11005001,Saving a fax file failed.
+-11005002,Mail resending is not available now or recipient's email address is not entered.
+-11005003,To delete an attachment is only available to a status of saving.
+-11005004,Only registrant can delete the attachment.
+-11005005,Entered ID's attachment doesn't exist.
+-11005006,An error occurred in handling of statement registered automatically.
+-11005007,To attach a file is only available in a status of saving.
+-11005008,Attachments can be uploaded up to 5 files.
+-11005009,Caller's number is not entered.
+-11005010,Receiver's number is not entered.
+-11005011,Text's contents is not entered.
+-11005012,Caller's number is not entered.
+-11005013,수Receiver's number is not entered.
+-11005014,To resend a text is not available.
+-11005015,To resend a fax is not available.
+-10005016,This is not an allowed attachment's format.
+-10005017,Invoice id to be assigned is not entered.
+-10005018,Seller invoice id is already assigned.
+-10005019,Buyer invoice id is already assigned.
+-10005020,This is not a delegated e-Tax invoice.
+-10005021,Trustee invoice id is already assigned.
+-11006001,Invalid XPath Expression
+-11006002,Seller's registration number doesn't exist in external XML.
+-11006003,Buyer's registration number doesn't exist in external XML.
+-11006004,Trustee's registration number doesn't exist in external XML.
+-11006005,This e-Tax invoice/e-invoice is not registered by this user(registrant).
+-11006006,This invoice id have been in use.
+-11006007,External XML information going to be proven is not entered.
+-11006008,Schema of external XML is incorrect.
+-11006009,To validate of external XML's e-sign failed.
+-11006010,It's not a properly configured external XML file.
+-11006011,Buyer's business registration number cannot be checked in external XML file.
+-11006012,No Member By that CorpNum
+-11006013,There is no NTS confirm number in external XML.
+-11006014,An e-Tax invoice/e-invoice registered by POPBILL UI cannot be registered as an external XML file.
+-11006015,Same NTS confirm number have been registered.
+,
+-11010001,No input body.
+-11010002,The information of e-Tax invoice is not entered.
+-11010003,An error occurred in process of mapping of e-Tax invoice information.
+-11010004,An error occurred in process of mapping of information of e-Tax invoice for modification.
+-11010005,Your route request is not supported.
+-11010006,Message body to request for resending is incorrect.
+-11010007,Failed to save an attachment.
+-11010008,This type of invoice id is incorrect.
+-11010009,Type of search date is not entered.
+-11010010,Type of search date is incorrect.
+-11010011,Format of search date is incorrect.
+-11010012,Statement's item code to be attached is not entered.
+-11010013,Statement's management number to be attached is not entered.
+-11010014,Statement's item code to be detached is not entered.
+-11010015,Statement's management number to be detached is not entered.
+-11010016,Email transfer type is invalid.
+-11010017,Email delivery lists are not entered
