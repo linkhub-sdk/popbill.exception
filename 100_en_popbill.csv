@@ -1,0 +1,232 @@
+-10000000,NOT YET IMPLEMENTED
+-10000001,CHECKSTATE IS FAIL [ ... ]
+-10000002,Value of search criteria should be set at least one.
+-10000003,This branch is not available to be searched.
+-10000004,Session information doesn't exist.
+-10000005,Role classification is not entered.
+-10000006,ID is not entered.
+-10000007,Password format is incorrect.
+-10000008,This ID's information doesn't exist.
+-10000009,Password is incorrect.
+-10000010,Information of API key doesn't exist.
+-10000011,Partner user information of this partner doesn't exist.
+-10000012,This user can not be identified by partner's ID and business registration number.
+-10000013,It isn't matched with existed password.
+-10000014,This business registration number's user information doesn't exist.
+-10000015,Business registration number going to be checked is not entered.
+-10000016,An error occurred in process of email configuration.
+-10000017,Waiting for manager's approval.
+-10000018,Disabled by manager.
+-10000019,This user have been outed from the service.
+-10000020,This user have been deleted from the service.
+-10000021,This ID is disable.
+-10000022,You have to reset the password.
+-10000023,Token encryption failed.
+-10000024,Password encryption failed.
+-10000025,Password has been reset.
+-10000026,Password have not been set.
+-10000027,An error occurred in process of checking password.
+-10000028,To change a password failed. (Hash value configuration error)
+-10000029,Access IP's information doesn't exist.
+-10000030,Fail To Retry Lock
+-10000031,Blocking for duplex processing failed. Please try again later.
+,
+-10000032,Token creation failed.
+-10000033,Token interpretation failed.
+-10000034,API Key is not entered.
+-10000035,An error occurred in process of an attachment.
+-10000036,User code doesn't exist.
+-10000037,User code that should be validated is not entered.
+-10000038,This user can not be identified by API Key and user ID.
+-10000039,This user doesn¡¯t belong to the company.
+-10000040,Partner ID going to be validated is not entered.
+-10000041,ID's maximum length is up to 20 letters.
+-10000042,"Only 4-20 English letters(Capital/Small), digit, hyphen and underscore is be applied to ID."
+,
+-10001000,This business registration number have been registered.
+-10001001,Information required for sign-up is not entered.
+-10001002,Password is not entered.
+-10001003,This ID is in use.
+-10001004,Business registration number is not entered.
+-10001005,CEO's name is not entered.
+-10001006,Company name is not entered.
+-10001007,Company address is not entered.
+-10001008,Business type is not entered.
+-10001009,Business item is not entered.
+-10001010,Information of the person in charge is not entered.
+-10001011,Email address of the person in charge is not entered.
+-10001012,Telephone number of the person in charge is not entered.
+-10001013,Name of the person in charge is not entered.
+-10001014,The person in charge of this business doesn't exist.
+-10001015,You don't have an authority to change the manager.
+-10001016,ID of the person in charge is incorrect or ID isn't registered.
+-10001017,You don't have an authority to change the person in charge.
+-10001018,Code of the person in charge isn't entered.
+-10001019,Information of the person in charge isn't registered.
+-10001020,User code isn't entered.
+-10001021,Information of user code doesn't exist.
+-10001022,This ID isn't registered or have been outed from the service.
+-10001023,Only manager can delete registered certificate.
+-10001024,Information of this user doesn't exist.
+-10001025,Information of the person in charge to be modified isn't entered.
+-10001026,You are not the person in charge of the business to be modified.
+-10001027,To modify user information is restricted.
+-10001028,Name of the person in charge is not entered.
+-10001029,Email address is not entered.
+-10001030,Reset password isn't same with the original.
+-10001031,A seal isn't registered.
+-10001032,A business license isn't registered.
+-10001033,A copy of a bankbook isn't registered.
+-10001034,Business registration number isn't entered.
+-10001035,Security token isn't entered..
+-10001036,To check a target of security token failed.
+-10001037,Target of security token isn't entered.
+-10001038,Channel ID isn't entered.
+-10001039,To check the unique number for issuing a security token failed.
+-10001040,An error occurred in process of issuing a security token.
+-10001041,This security token is invalid now.
+-10001042,This security token is incorrect.
+-10001043,ID isn't entered.
+-10001044,This user is not a user of the former POPBILL.
+-10001045,Postal code number should be below 10 digits.
+-10001046,The format of the business registration number is incorrect.
+-10001047,Session to sign up for POPBILL isn't ready yet.
+-10001048,Only manager can send a mail to reset the password.
+-10001049,Information of the person in charge of mailing to reset the password doesn't exist.
+-10001050,Minimum limit of left points to be notified isn't entered.
+-10001051,Notification date of a draft isn't entered.
+-10001052,Notification date of a document waiting for issuance isn't entered.
+-10001053,Receiving number for notification message isn't set.
+-10001054,Business type should be below 100 letters.
+-10001055,Business item should be below 100 letters.
+-10001056,CEO name should be below 100 letters.
+-10001057,Company name should be below 200 letters.
+-10001058,Address should be below 300 letters.
+-10001059,This business registration number is invalid.
+-10001060,Department's user ID isn't entered.
+-10001061,Department's user password isn't entered.
+-10001062,Only manager can delete registered department's user.
+-10001063,No department's user is registered.
+,
+-10002000,Client's information isn't entered.
+-10002001,Client's type isn't entered.
+-10002002,Client's registration number isn't entered.
+-10002003,Client's company name isn't entered.
+-10002004,CEO name of client's company isn't entered.
+-10002005,Email address of the person in charge of client's company isn't entered.
+-10002006,Name of the person in charge of client's company isn't entered.
+-10002007,Email address of the person in charge of client's company isn't entered.
+-10002008,This client's information doesn't exist or it isn't a user's client.
+-10002009,No certificate is registered.
+-10002010,Information of the person in charge of client's company isn't entered.
+-10002011,A person in charge can be added by the company that the person belongs to.
+-10002012,Information of the person in charge of client's company doesn't exist.
+-10002013,Client's branch number consists of 4 digits¡¯ number.
+-10002014,An item code isn't entered.
+-10002015,An item name isn't entered.
+-10002016,No certificate of Hometax is registered.
+-10002020,Item's information isn't entered.
+-10002021,This item's information doesn't exist or this is not a user's item.
+-10002022,Client's company name should be below 200 letters.
+-10002023,CEO name of client's company should be below 100 letters.
+-10002024,Client's company type should be below 100 letters.
+-10002025,Client's company item should be below 100 letters.
+-10002026,Name of the person in charge of client's company should be below 100 letters.
+-10002027,Position name of the person in charge of client's company should be below 20 letters.
+-10002030,Configuration of text message failed.
+-10003000,Session for charging isn't ready yet.
+-10004000,A certificate for issuance isn't ready yet.
+-10004001,Loading of the certificate failed.
+-10004002,Hash algorithm of registered certificate cannot be checked now.
+-10004003,This is an expired certificate.
+-10004004,This certificate isn't valid yet.
+-10004005,This certificate is invalid now.
+-10005001,This manager has been inactivated.
+-10005002,Payment result doesn't exist.
+-10005003,Information of payment code doesn't exist.
+-10005004,User information for payment doesn't exist.
+-10005005,Information of the person in charge of payment doesn't exist.
+-10005006,There is no searched payment details.
+-10005007,This user didn't take the partner payment method.
+,
+-10006001,New password isn't entered.
+-10006002,Password should be set at least 6 and below 20 letters.
+-10006003,"Password should be contain at least 1 English letter, digit and special character each."
+-10006004,Only manager is allowed.
+-10006005,Manager information doesn't exist.
+-10006006,Information of the person in charging doesn't exist.
+-10006007,You don't have an authority to issue a ticket.
+-10006008,Ticket encryption failed.
+-10006009,There is no consultant history.
+-10006010,Board type information doesn't exist.
+-10006011,You are not a registrant of this post.
+-10006012,You don't have an authority to modify this post.
+-10006013,You don't have an authority to delete this post.
+-10006014,Configuration information of an e-Tax invoice for modification isn't entered.
+-10006015,SMS template going to be modified isn't entered.
+-10006016,Statement type isn't entered.
+-10006017,Format name isn't entered.
+-10006018,The number of details in the first page isn't entered.
+-10006019,The number of details in the next page isn't entered.
+-10006020,Partner information of this user doesn't exist.
+-10006021,Partner information going to be modified isn't entered.
+-10006022,Customized format information going to be registered isn't entered.
+-10006023,Its customized format information doesn't exist.
+-10006024,Customized format information going to be modified isn't entered.
+-10006025,This calling number is invalid now.
+-10006026,This calling number isn't registered.
+-10006027,A calling number isn't entered.
+-10006028,This calling number is in use.
+-10006029,Available calling numbers have been registered all.
+-10006030,Configuration information of e-Statement going to be modified isn't entered.
+-10007001,Invalid PDF Document
+-10007002,Initialization for PDF creation failed.
+-10007003,URL checking for PDF creation failed.
+-10007004,PDF creation failed.
+-10010001,Partner ID isn't entered.
+-10010002,User ID isn't entered.
+-10010003,Fail to read uploaded file.
+-10010004,Fail to issue Ticket.
+-10010005,Parsing of information for sign up failed. [Malformed JSON]
+-10010006,Business registration number(authority information) isn't entered.
+-10010007,Information for sign up isn't entered.
+-10010008,Parsing of business information failed. [Malformed JSON]
+-10010009,Parsing of information to add a person in charge failed. [Malformed JSON]
+-10010010,Parsing of information to modify the person in charge failed. [Malformed JSON]
+-10010011,Search date type isn't entered.
+-10010012,Search date type is incorrect.
+-10010013,Search date format is incorrect.
+-10010014,APIKey isn't entered.
+-10010015,ItemCode isn't entered.
+-10010016,Partner's business registration number isn't entered.
+-10011001,You are not a KUGDONG system's user.
+-10011002,A KUGDONG's user assigned this user code doesn't exist.
+-10011003,This connection string doesn't exist.
+-10011004,Connection configuration going to be modified doesn't exist.
+-10011005,Connection configuration going to be deleted doesn't exist.
+-10011006,Connection configuration going to be changed doesn't exist.
+-10011007,User code isn't entered.
+-10011008,ConnID isn't entered.
+,
+-10012001,LinkID isn't entered.
+-10012002,Partner code isn't entered.
+-10012003,Changed business registration number isn't entered.
+-10012004,This partner's migration information have been registered.
+-10012005,Information of this partner's migration result doesn't exist.
+-10012006,Set-up for this partner's migration isn't ready yet.
+-10012007,This user is not eligible for migration.
+-10012008,There is no migration history of this business.
+-10012009,You cannot change the result of migration.
+-10012010,Partner's linkID going to be registered isn't entered.
+-10013001,Message's template information isn't entered.
+-10013002,This message's template doesn't exist or it's not a your template.
+-10014001,A code of address group isn't entered.
+-10014002,Address group doesn't exist.
+-10014003,Information of address group isn't entered.
+-10014004,Group code isn't entered.
+-10014005,New group name for modification isn't entered.
+-10014006,Information of address group for deletion isn't entered.
+-10014007,Address information doesn't exist.
+-10014008,Address information isn't entered.
+-10014009,Address code isn't entered.
+-10014010,Address information for deletion isn't entered.
