@@ -1,0 +1,17 @@
+-99005001,Left partner points aren't enough.
+-99005002,You have exceed the monthly limit of deferred payment.
+-99005003,Charged points for deduction aren't enough.
+-99005004,Bonus points for deduction aren't enough.
+-99005005,Left points aren't enough.
+-99005006,There is no case to eligible for refund.
+-99005007,Charging direction cannot be checked now.
+-99005008,Charging in POPBILL website is restricted.
+-99005009,Charging by API is restricted.
+-99005010,This is not a partner charging method.
+-99005011,This service needs user information.
+-99005012,This service is only available in partner charging method.
+-99005013,You have exceed the daily limit of deferred payment.
+-99005014,You have exceed the maximum limit of charging.
+-99005015,You have exceed the daily usage limit.
+-99005016,You have exceed the daily usage limit.
+-99005017,You have exceed the maximum limit of partner's charging.
