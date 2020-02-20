@@ -1,0 +1,102 @@
+-14000000,The information of e-Cashbill doesn't exit.
+-14000001,You ar not a person in charge of e-Cashbill.
+-14000002,You don't have an authority to search the e-Cashbill.
+-14000003,The e-Cashbill of this cashbill is doesn't exist.
+-14000004,Seller cashbill id is duplicated.
+,
+-14001001,Seller's business registration number isn't entered.
+-14001002,Seller's business registration number isn't valid.
+-14001003,Type of customer's identification information isn't entered.
+-14001004,Customer's identification information isn't entered.
+-14001005,Mobile number as a customer's identification number isn't valid.
+-14001006,Resident registration number as a customer's identification number isn't valid.
+-14001007,Business registration number as a customer's identification number isn't valid.
+-14001008,Service charge isn't entered.
+-14001009,Minus amount as the service charge couldn't be entered.
+-14001010,Supply cost isn°Øt entered.
+-14001011,Minus amount as the supply cost couldn't be entered.
+-14001012,Taxation value isn't entered.
+-14001013,Minus amount as the taxation value couldn't be entered.
+-14001014,Total amount isn't entered.
+-14001015,Minus amount as the total amount couldn't be entered.
+-14001016,Type of the trade isn't entered.
+-14001017,Purpose of e-Cashbill isn't entered. (General/Cancellation)
+-14001018,Type of the trade isn't entered.
+-14001019,Seller cashbill id have been already registered.
+-14001020,The original e-Cashbill doesn't exist.
+-14001021,It isn't finished to file the original e-Cashbill to NTS.
+-14001022,Business registration number isn't same with the original.
+-14001023,Supply cost entered newly for cancellation is bigger than the original's. 
+-14001024,The issuance reason of e-Cashbill for cancellation isn't entered.
+-14001025,Customer's information isn't same with the  e-Cashbill's.
+-14001026,POPBILL cashbill id is incorrect.
+-14001027,Search scope isn't entered.
+-14001028,This branch isn't registered.
+-14001029,Item code isn't entered.
+-14001030,The date of trade isn't entered.
+-14001031,"Total amount must be same with the sum of supply cost, taxation value and service charge."
+-14001032,Customer's business registration number to proof the expenditure in business is incorrect.
+-14001033,Customer's identification number of e-Cashbill to deduct income tax is incorrect.
+-14001034,Taxation type isn't entered.
+-14001035,Customer's identification number isn't same with the original's.
+-14001036,Taxation value of e-Cashbill for cancellation is bigger than the original's.
+-14001037,Service charge of e-Cashbill for cancellation is bigger than the original's.
+-14001038,Total amount of e-Cashbill for cancellation is bigger than the original's.
+-14001039,Type of the trade isn't same with the original's.
+-14001040,Taxation type isn't same with the original's.
+-14001041,To issue an e-Cashbill for cancellation is only available to an approved trade.
+-14001042,NTS confirm number of the original isn't entered in e-Cashbill for cancellation.
+-14001043,"Total amount must be entered below 999,999,999 won"
+-14001044,Only number could be entered in field of customer's identification number.
+-14001045,Only O(zero won) could be entered as a taxation value of tax exemption e-Cashbill.
+-14001046,Customer's identification number must be entered below 20 digits.
+-14001047,Company name of the seller must be entered below 200 Korean letters. 
+-14001048,CEO name of the seller must be entered below 100 Korean letters.
+-14001049,Company address of the seller must be entered below 400 Korean letters.
+-14001050,Customer's name must be entered below 40 Korean letters.
+-14001051,Item name must be entered below 70 Korean letters.
+-14001052,Order number must be entered below 200 Korean letters.
+-14001053,Mail address must be entered below 100 Korean letters.
+-14001054,e-Cashbill to report voluntarily to NTS couldn't be issued for the purpose of proof an expenditure in business.
+-14001055,NTS confirm number of the original is duplicated.
+-14001056,Trade date of the original that have to be cancelled isn't entered.
+-14001057,NTS confirm number of the original that have to be cancelled isn't entered.
+-14001058,The issuance reason of e-Cashbill for cancellation isn't entered.
+-14002001,You are not a creator of this e-Cashbill.
+-14002002,Only saved cashill could be modified.
+-14002003,Only saved cashill could be issued.
+-14002004,It's not available to delete an e-Cashbill in this state.
+-14002005,Issuance cancallation is only available to issued e-Cashbill before filing to NTS.
+-14002006,Issuance of e-Cashbill for cancellation is only available to filied e-Cashbill.
+-14002007,It's not available to delete an e-Cashbill in this state.
+-14002008,Linked e-Cashbill with partner's system couldn't be modified.
+-14002009,Your authority to delete an e-Cashill is limited by partner.
+-14002010,Issuance cancellation isn't available in this state.
+-14002011,Issuance cancellation isn't available to an e-Cashbill in process of filing and filied e-Cashbill.
+-14002012,Data transfer to NTS error
+-14002013,¿Ã¡ˆΩ∫ data configuration error
+-14002014,To issue a linked e-Cashbill isn't available with this user's information.
+-14002015,BGF data configuration error
+-14002016,Invalid NTSLineType
+-14002017,BGF data encryption error
+-14002018,Invalid BGF EncrptData Length
+-14002019,Only issued e-Cashbill could be filed to NTS.
+-14005001,To save a fax file is failed.
+-14005002,Mail address for resending a notification mail isn't entered.
+-14005003,Sender's number for resending a notification message isn't entered.
+-14005004,Receiver's number for resending a notification message isn't entered.
+-14005005,Contents for resending a notification message isn't entered.
+-14005006,Sender's number for resending a fax isn't entered.
+-14005007,Receiver's number for resending a fax isn't entered.
+-14005008,It's not available to resend a notification mail now or mail address isn't entered.
+-14005009,It's not available to resend a notification message now.
+-14005010,It's not available to resend a fax message now.
+,
+-14010001,No Input Body
+-14010002,The information of e-Cashbill isn't entered.
+-14010003,An error occurred during the mapping of e-Cashbill information.
+-14010004,It's an unsupported route request.
+-14010005,An error occurred during the mapping of modified e-Cashbill information.
+-14010006,Message body for request a resending is incorrect.
+-14010007,Type of a mail sending is invalid.
+-14010008,Mailing list isn't entered.
