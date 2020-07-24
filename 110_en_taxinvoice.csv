@@ -20,9 +20,9 @@
 -11001005,A taxation type is not entered.
 -11001006,Payment by invoicee(buyer) is only available in requested e-Tax invoice issuance process.
 -11001007,"If the invoicee(buyer) is a foreigner, enter the foreigner registration number or passport number in remark1."
--11001008,"If taxation type is the taxation, e-Tax invoice’s tax value can not be ‘0’."
+-11001008,"If taxation type is the taxation, e-Tax invoice’s tax value can not be '0'."
 -11001009,A modification code is incorrect.
--11001010,An e-Tax invoice for modification caused by ‘Return’ and ‘Revocation of contract’ is only registered with minus amount of supply cost and taxation.
+-11001010,An e-Tax invoice for modification caused by 'Return' and 'Revocation of contract' is only registered with minus amount of supply values and taxation.
 -11001011,An e-Tax invoice/e-invoice’s form is incorrect.
 -11001012,Payment method is not entered. Enter one of (정)과금(payment by seller)/역과금(payment by buyer).
 -11001013,Seller’s business registration number is not entered.
@@ -217,7 +217,7 @@
 -11005010,Receiver's number is not entered.
 -11005011,Text's contents is not entered.
 -11005012,Caller's number is not entered.
--11005013,수Receiver's number is not entered.
+-11005013,Receiver's number is not entered.
 -11005014,To resend a text is not available.
 -11005015,To resend a fax is not available.
 -10005016,This is not an allowed attachment's format.
@@ -232,7 +232,7 @@
 -11006004,Trustee's registration number doesn't exist in external XML.
 -11006005,This e-Tax invoice/e-invoice is not registered by this user(registrant).
 -11006006,This invoice id have been in use.
--11006007,External XML information going to be proven is not entered.
+-11006007,External XML information going to be proven is not entered. 
 -11006008,Schema of external XML is incorrect.
 -11006009,To validate of external XML's e-sign failed.
 -11006010,It's not a properly configured external XML file.
@@ -253,9 +253,9 @@
 -11010009,Type of search date is not entered.
 -11010010,Type of search date is incorrect.
 -11010011,Format of search date is incorrect.
--11010012,Statement's item code to be attached is not entered.
+-11010012,Statement's management number to be attached is not entered.
 -11010013,Statement's management number to be attached is not entered.
--11010014,Statement's item code to be detached is not entered.
+-11010014,Statement's management number to be detached is not entered.
 -11010015,Statement's management number to be detached is not entered.
 -11010016,Email transfer type is invalid.
 -11010017,Email delivery lists are not entered
