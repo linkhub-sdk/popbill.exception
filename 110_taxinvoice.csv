@@ -259,3 +259,20 @@
 -11010016,메일전송 타입이 유효하지 않습니다.
 -11010017,메일전송 여부 항목이 입력되지 않았습니다.
 -11010018,PDF 다운로드가 불가능한 문서상태입니다.
+,
+-11010019,SubmitID is empty
+-11010020,Length of the submitID must not exceed 36
+-11010021,Message digest is empty
+-11010022,Invalid message digest
+-11010023,Invalid Json Message for bulk request
+-11010024,Taxinvoices were not exists on bulk request
+-11010025,IssueType is empty
+-11010026,IssueType [역발행] is not supported
+-11010027,InvoicerMgtKey is empty
+-11010028,InvoicerCorpNum does not match with user
+-11010029,Multiple InvoicerMgtKey is exists on same request
+-11010030,TrusteeMgtKey is empty
+-11010031,Multiple TrusteeMgtKey is exists on same request
+-11010032,Saving bulk process result to database failed
+-11010033,Bulk message queueing failed
+-11010034,SubmitID was already receipted
