@@ -276,3 +276,4 @@
 -11010032,Saving bulk process result to database failed
 -11010033,Bulk message queueing failed
 -11010034,SubmitID was already receipted
+-11010035,Bulk submission for [{SubmitID}] is not exists
