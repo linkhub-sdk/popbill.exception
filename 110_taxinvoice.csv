@@ -277,3 +277,4 @@
 -11010033,Bulk message queueing failed
 -11010034,SubmitID was already receipted
 -11010035,Bulk submission for [{SubmitID}] is not exists
+-11010036,Number of invoices of submission can not exceed 100.
