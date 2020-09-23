@@ -9,7 +9,7 @@
 -10000008,The information of entered ID doesn't exist.
 -10000009,A password is not matched.
 -10000010,Entered API Key(LinkID/SecretKey) is incorrect.
--10000011,Partner¡¯s user information doesn't exist.
+-10000011,Partner's user information doesn't exist.
 -10000012,This user can not be identified by LinkID and Business registration number.
 -10000013,A wrong password is entered.
 -10000014,An user information of entered business registration number doesn't exist.
@@ -36,10 +36,10 @@
 -10000036,An user code doesn't exist.
 -10000037,An user code to be validated is not entered.
 -10000038,This user can not be identified by API Key and user ID.
--10000039,This user doesn¡¯t belong to the company.
+-10000039,This user doesn't belong to the company.
 -10000040,Partner ID to be validated is not entered.
 -10000041,An ID can be entered up to 20 letters.
--10000042,The ID must be 4-20 letters and a combination of English letters(Capital/Small), numeric, hyphen and underscore.
+-10000042,"The ID must be 4-20 letters and a combination of English letters(Capital/Small), numeric, hyphen and underscore."
 ,
 -10001000,This business registration number have been registered.
 -10001001,The information required for sign-up is not entered.
@@ -72,9 +72,9 @@
 -10001028,A name of the person in charge is not entered.
 -10001029,Email address is not entered.
 -10001030,The user name or email for reset the password isn't matched with the original.
--10001031,There¡¯s no registered seal.
--10001032,There¡¯s no registered certificate of business license.
--10001033,There¡¯s no registered copy of a bankbook.
+-10001031,There's no registered seal.
+-10001032,There's no registered certificate of business license.
+-10001033,There's no registered copy of a bankbook.
 -10001034,Business registration number isn't entered.
 -10001035,Security token isn't entered.
 -10001036,Failed to verify a security token.
@@ -82,26 +82,26 @@
 -10001038,A channel ID isn't entered.
 -10001039,Failed to verify the unique number for issuance of a security token.
 -10001040,An error occurred in process of issuance of a security token.
--10001041,It¡¯s an expired security token.
--10001042,It¡¯s an invalid security token.
+-10001041,It's an expired security token.
+-10001042,It's an invalid security token.
 -10001043,An ID isn't entered.
 -10001045,The postal code number should be below 10 digits.
 -10001046,The format of the business registration number is incorrect.
 -10001047,Session to sign up for POPBiLL isn't ready yet.
 -10001048,Only administrator can send a mail to reset the password.
--10001049,The user who gets a mail to reset the password doesn¡¯t exist.
+-10001049,The user who gets a mail to reset the password doesn't exist.
 -10001050,Minimum limit of left points to be notified isn't entered.
--10001053,Recipient¡¯s number for a notification message isn't entered.
+-10001053,Recipient's number for a notification message isn't entered.
 -10001054,Business type should be entered below 100 letters.
 -10001055,Business item should be entered below 100 letters.
 -10001056,Name of representative should be entered below 100 letters.
 -10001057,Name of company should be entered below 200 letters.
 -10001058,Address should be entered below 300 letters.
--10001059,It¡¯s an invalid business registration number.
+-10001059,It's an invalid business registration number.
 ,
 -10002000,Customer information isn't entered.
 -10002001,Customer type isn't entered.
--10002002,Customer(Buyer)¡¯s business registration number isn't entered.
+-10002002,Customer(Buyer)'s business registration number isn't entered.
 -10002003,Name of customer company isn't entered.
 -10002004,Name of representative of customer company isn't entered.
 -10002005,Email address of the person in charge of customer company isn't entered.
@@ -111,7 +111,7 @@
 -10002009,There is no registered certificate.
 -10002010,Information of the person in charge of customer company isn't entered.
 -10002012,Information of the person in charge of customer company doesn't exist.
--10002013,Identification number for a minor place of customer company must be 4 digits¡¯ number.
+-10002013,Identification number for a minor place of customer company must be 4 digits' number.
 -10002014,An item code isn't entered.
 -10002015,An item name isn't entered.
 -10002016,No certificate to be applied to crawl data from NTS is registered in POPBiLL.
@@ -135,17 +135,17 @@
 -10004005,Registered certificate is invalid now.
 -10004006,The certificate purpose is not for the issuance of e-Tax invoice.
 ,
--10005001,This administrator¡¯s access is suspended.
+-10005001,This administrator's access is suspended.
 -10005002,Payment result doesn't exist.
 -10005003,Information of payment code doesn't exist.
 -10005004,The information of a user who paid doesn't exist.
 -10005005,Information of the person in charge of payment doesn't exist.
 -10005006,No payment history is confirmed.
--10005007,It¡¯s not a authorized partner¡¯s user.
+-10005007,It's not a authorized partner's user.
 ,
 -10006001,New password isn't set.
 -10006002,Password should be set at least 6 and below 20 letters.
--10006003,Password should be consisted of least 1 English letter, numeric and special character each.
+-10006003,"Password should be consisted of least 1 English letter, numeric and special character each."
 -10006004,Only administrator is allowed.
 -10006005,Administrator information doesn't exist.
 -10006006,Information of the person in charge doesn't exist.
@@ -160,8 +160,8 @@
 -10006015,SMS template to be modified isn't entered.
 -10006016,Statement type isn't entered.
 -10006017,Format name isn't entered.
--10006018,It¡¯s not set yet that how many items are displayed in the first page.
--10006019,It¡¯s not set yet that how many items are displayed in the next page.
+-10006018,It's not set yet that how many items are displayed in the first page.
+-10006019,It's not set yet that how many items are displayed in the next page.
 -10006020,Partner information of this user doesn't exist.
 -10006021,Partner information to be modified isn't entered.
 -10006022,Customized format information to be registered isn't entered.
@@ -194,7 +194,7 @@
 -10010013,Date format for search criteria is incorrect.
 -10010014,APIKey isn't entered.
 -10010015,ItemCode isn't entered.
--10010016,User¡¯s business registration number isn't entered.
+-10010016,User's business registration number isn't entered.
 ,
 -10011004,Connection configuration to be modified doesn't exist.
 -10011005,Connection configuration to be deleted doesn't exist.
@@ -214,7 +214,7 @@
 -10012010,Partner's linkID to be registered isn't entered.
 ,
 -10013001,Message's template information isn't entered.
--10013002,This message's template doesn't exist or it's not a user¡¯s template.
+-10013002,This message's template doesn't exist or it's not a user's template.
 ,
 -10014001,A code of address group isn't entered.
 -10014002,Address group doesn't exist.
