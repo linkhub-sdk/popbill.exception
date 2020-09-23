@@ -15,27 +15,27 @@
 -11001001,Date of preparation is not entered.
 -11001002,Calculation method of supply values and tax amount is not entered.
 -11001003,A issuance type is not entered.
--11001004,Type of the total amount is not entered. Enter one of '영수'(Amount paid) / '청구' (Amount due).
+-11001004,Type of the total amount is not entered. Enter one of '영수'(Amount paid) / '청구' (Amount due). 
 -11001005,A taxation type is not entered.
--11001007,"If the invoicee(buyer) is a foreigner, enter the alien registration number or passport number in remark1."
--11001008,"If taxation type is the taxation, e-Tax invoice's tax value can not be '0'."
--11001009,A modification code is incorrect. → Entered value is not a digit from 1 to 6.
+-11001007," If the invoicee(buyer) is a foreigner, enter the alien registration number or passport number in remark1."
+-11001008," If taxation type is the taxation, e-Tax invoice's tax value can not be '0'."
+-11001009,A modification code is incorrect. ' Entered value is not a digit from 1 to 6.
 -11001010,A revised e-Tax invoice caused by 'Return' and 'Cancellation of contract' is only registered with minus amount of supply values and tax.
 -11001013,Seller's business registration number is not entered.
--11001014,Seller's business registration number is incorrect. → Length error : it must be 10 digits.
+-11001014,Seller's business registration number is incorrect. ' Length error : it must be 10 digits.
 -11001015,Seller's company name is not entered.
 -11001016,Name of representative of seller is not entered.
--11001018,Name of the person in charge of seller is incorrect. → Length Error : it must be below 100 letters.
+-11001018,Name of the person in charge of seller is incorrect. ' Length Error : it must be below 100 letters.
 -11001019,Business registration number of minor place of seller's company is 4 digits.
 -11001020,Buyer's business registration number is not entered.
--11001021,Buyer's business registration number is incorrect. → Length error : it must be 10 digits.
+-11001021,Buyer's business registration number is incorrect. ' Length error : it must be 10 digits.
 -11001022,Buyer's company name is not entered.
 -11001023,Name of representative of buyer is not entered.
--10001025,Name of the person in charge of buyer is incorrect. → Length Error : it must be below 100 letters.
+-10001025,Name of the person in charge of buyer is incorrect. ' Length Error : it must be below 100 letters.
 -11001026,Business registration number of minor place of buyer's company is 4 digits.
 -11001034,Tax amount of zero-rate tax invoice should be entered as '0'.
--11001035,Seller invoice ID(invoicermgtkey) is incorrect. → It isn't entered or the length is over 24 letters.
--11001036,Buyer invoice ID(invoiceemgtkey) is incorrect. → It isn't entered or the length is over 24 letters.
+-11001035,Seller invoice ID(invoicermgtkey) is incorrect. ' It isn't entered or the length is over 24 letters.
+-11001036,Buyer invoice ID(invoiceemgtkey) is incorrect. ' It isn't entered or the length is over 24 letters.
 -11001038,Entered seller invoice ID(invoicermgtkey) have already enrolled.
 -11001039,Entered buyer invoice ID(invoiceemgtkey) have already enrolled.
 -11001041,Supply values is not entered.
@@ -43,7 +43,7 @@
 -11001043,Total amount is not entered.
 -11001044,Total amount should be same with the sum of supply values and tax amount.
 -11001045,Plus/minus sign of supply values is not same with of tax amount.
--11001046,Sum of cash, check, note and credit should be same with the total amount.
+-11001046," Sum of cash, check, note and credit should be same with the total amount."
 -11001047,Total number of items' list in invoice should be under 99.
 -11001048,Serial number of a list is not entered or it is out of the range.
 -11001049,Supply values of a list should be under 18 letters.
@@ -56,20 +56,20 @@
 -11001056,Filing of original e-Tax invoice/e-invoice doesn't finish yet.
 -11001057,Issuer's business registration number is not same with the original's.
 -11001058,Seller's business registration number is same with the buyer's.
--11001061,If buyer type is the business, 10 digits' number should be entered as a business registration number.
--11001062,If buyer type is the individual business, 13 digits' number should be entered as a resident registration number.
--11001063,If buyer type is the foreigner, '999999-9999999' should be entered as a registration number.
+-11001061," If buyer type is the business, 10 digits' number should be entered as a business registration number."
+-11001062," If buyer type is the individual business, 13 digits' number should be entered as a resident registration number."
+-11001063," If buyer type is the foreigner, '999999-9999999' should be entered as a registration number."
 -11001064,Item's name should be below 100 letters.
 -11001066,Seller's business type should be below 100 letters.
 -11001067,Seller's business item should be below 100 letters.
 -11001068,Buyer's business type should be below 100 letters.
 -11001069,Buyer's business item should be below 100 letters.
--11001072,In case of zero-rate or exempt e-Tax invoice/e-invoice, tax amount should be none or '0'.
+-11001072," In case of zero-rate or exempt e-Tax invoice/e-invoice, tax amount should be none or '0'."
 -11001073,The tax amount of invoice is same with the sum of items'.
 -11001074,The person in charge can be added until 10 people.
 -11001075,Name of the person in charge is not entered.
 -11001076,Email address of the person in charge is not entered.
--11001077,In case of zero-rate or exempt e-Tax invoice/e-invoice, items' tax amount should be none or '0'.
+-11001077," In case of zero-rate or exempt e-Tax invoice/e-invoice, items' tax amount should be none or '0'."
 -11001079,Information of the original e-Tax invoice is not entered in the revised invoice.
 -11001080,A revised invoice of exempted should be prepared with the exempted.
 -11001081,A revised invoice of taxable/zero-rate should be prepared with the taxable/zero-rate.
@@ -89,12 +89,12 @@
 -11001100,Remark1 should be below 150 letters.
 -11001101,Remark2 should be below 150 letters.
 -11001102,Remark3 should be below 150 letters.
--11001103,Date of preparation is incorrect. → The date is a day before 1978, as the first year of Korea VAT LAW enforcement.
+-11001103," Date of preparation is incorrect. ' The date is a day before 1978, as the first year of Korea VAT LAW enforcement."
 -11001104,Entered seller's business registration number is not same with the original's
 -11001105,Item's serial numbers are duplicated.
 -11001106,Serial number of the person in charge is not entered or it is out of range.
 -11001107,Serial numbers of the person in charge are duplicated.
--11001108,Buyer's resident registration number is incorrect. → Length error: it must be 13 digits.
+-11001108,Buyer's resident registration number is incorrect. ' Length error: it must be 13 digits.
 -11001109,Seller's department name should be below 100 letters.
 -11001110,Buyer's department name should be below 100 letters.
 -10001112,Item's specification should be below 60 letters.
@@ -116,7 +116,7 @@
 -11002034,It has been checked by buyer.
 -11002035,An e-Tax invoice/e-Invoice registered by API can not be modified.
 -11002036,To delete an e-Tax invoice is restricted by the partner.
--11002037,The user with the authority to check e-Tax invoice/e-Invoice he/she registered only, can delete the invoice registered by him/her.
+-11002037," The user with the authority to check e-Tax invoice/e-Invoice he/she registered only, can delete the invoice registered by him/her."
 -11002038,Issuance cancellation is only available to (general) e-Tax invoice.
 -11002044,The e-Tax invoice/e-invoice registered by external XML can not be modified.
 -11002045,Paper invoice can not be modified.
@@ -133,11 +133,11 @@
 -11003004,Failed to validate an e-Signature.
 -11003005,Failed to validate a registered certification.
 -11003006,Not signed successfully.
--11003007,XML Validation - Failed to validate a XML schema
--11003008,XML Validation - Failed to extract a certificate
+-11003007,XML Validation ? Failed to validate a XML schema
+-11003008,XML Validation ? Failed to extract a certificate
 -11003009,XML Validation - It's not signed by the issuer's certificate.
--11003010,XML Validation - Failed to validate a VID.
--11003011,XML Validation - An error related to e-Signature occurred.
+-11003010,XML Validation ? Failed to validate a VID.
+-11003011,XML Validation ? An error related to e-Signature occurred.
 -11003012,XML Validation - An unidentified hash algorithm error occurred.
 -11003013,XML Validation - Hash value mismatch error occurred.
 -11003014,XML Validation - E-signature validation error occurred.
