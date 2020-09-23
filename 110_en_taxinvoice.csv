@@ -3,39 +3,39 @@
 -11000002,Actor is Required to Log.
 -11000003,At least one search criteria must be set.
 -11000004,This branch is not registered.
--11000005,e-Tax invoice/e-Invoice Information of this invoice ID doesn¡¯t exist.
+-11000005,e-Tax invoice/e-Invoice Information of this invoice ID doesnÂ¡Â¯t exist.
 -11000006,Itemkey should not be null or empty.
 -11000007,You are not a user related to this e-Tax invoice/e-Invoice.
--11000008,You don¡¯t have an authority to search the invoice.
--11000009,You don¡¯t have an authority to search the invoice.
+-11000008,You donÂ¡Â¯t have an authority to search the invoice.
+-11000009,You donÂ¡Â¯t have an authority to search the invoice.
 -11000010,Set the search scope as within a year.
 -11000011,To issue an e-Tax invoice is restricted because of inspection. Please retry when the inspection is done.
 ,
--11001000,User¡¯s information is not matched with the information written on the e-Tax invoice.
+-11001000,UserÂ¡Â¯s information is not matched with the information written on the e-Tax invoice.
 -11001001,Date of preparation is not entered.
 -11001002,Calculation method of supply values and tax amount is not entered.
 -11001003,A issuance type is not entered.
--11001004,Type of the total amount is not entered. Enter one of ¡®¿µ¼ö¡¯(Amount paid) / ¡®Ã»±¸¡¯ (Amount due). 
+-11001004,Type of the total amount is not entered. Enter one of ì˜ìˆ˜(Amount paid) / ì²­êµ¬(Amount due). 
 -11001005,A taxation type is not entered.
 -11001007,If the invoicee(buyer) is a foreigner, enter the alien registration number or passport number in remark1.
--11001008,If taxation type is the taxation, e-Tax invoice¡¯s tax value can not be '0'.
--11001009,A modification code is incorrect. ¡æ Entered value is not a digit from 1 to 6.
+-11001008,If taxation type is the taxation, e-Tax invoiceÂ¡Â¯s tax value can not be '0'.
+-11001009,A modification code is incorrect. Â¡Ã¦ Entered value is not a digit from 1 to 6.
 -11001010,A revised e-Tax invoice caused by 'Return' and 'Cancellation of contract' is only registered with minus amount of supply values and tax.
--11001013,Seller¡¯s business registration number is not entered.
--11001014,Seller¡¯s business registration number is incorrect. ¡æ Length error : it must be 10 digits.
--11001015,Seller¡¯s company name is not entered.
+-11001013,SellerÂ¡Â¯s business registration number is not entered.
+-11001014,SellerÂ¡Â¯s business registration number is incorrect. Â¡Ã¦ Length error : it must be 10 digits.
+-11001015,SellerÂ¡Â¯s company name is not entered.
 -11001016,Name of representative of seller is not entered. 
--11001018,Name of the person in charge of seller is incorrect. ¡æ Length Error : it must be below 100 letters.
+-11001018,Name of the person in charge of seller is incorrect. Â¡Ã¦ Length Error : it must be below 100 letters.
 -11001019,Business registration number of minor place of seller's company is 4 digits.
--11001020,Buyer¡¯s business registration number is not entered.
--11001021,Buyer¡¯s business registration number is incorrect. ¡æ Length error : it must be 10 digits.
--11001022,Buyer¡¯s company name is not entered.
+-11001020,BuyerÂ¡Â¯s business registration number is not entered.
+-11001021,BuyerÂ¡Â¯s business registration number is incorrect. Â¡Ã¦ Length error : it must be 10 digits.
+-11001022,BuyerÂ¡Â¯s company name is not entered.
 -11001023,Name of representative of buyer is not entered.
--10001025,Name of the person in charge of buyer is incorrect. ¡æ Length Error : it must be below 100 letters.
+-10001025,Name of the person in charge of buyer is incorrect. Â¡Ã¦ Length Error : it must be below 100 letters.
 -11001026,Business registration number of minor place of buyer's company is 4 digits.
--11001034,Tax amount of zero-rate tax invoice should be entered as ¡¯0¡¯.
--11001035,Seller invoice ID(invoicermgtkey) is incorrect. ¡æ It isn't entered or the length is over 24 letters.
--11001036,Buyer invoice ID(invoiceemgtkey) is incorrect. ¡æ It isn't entered or the length is over 24 letters.
+-11001034,Tax amount of zero-rate tax invoice should be entered as Â¡Â¯0Â¡Â¯.
+-11001035,Seller invoice ID(invoicermgtkey) is incorrect. Â¡Ã¦ It isn't entered or the length is over 24 letters.
+-11001036,Buyer invoice ID(invoiceemgtkey) is incorrect. Â¡Ã¦ It isn't entered or the length is over 24 letters.
 -11001038,Entered seller invoice ID(invoicermgtkey) have already enrolled.
 -11001039,Entered buyer invoice ID(invoiceemgtkey) have already enrolled.
 -11001041,Supply values is not entered.
@@ -44,7 +44,7 @@
 -11001044,Total amount should be same with the sum of supply values and tax amount.
 -11001045,Plus/minus sign of supply values is not same with of tax amount.
 -11001046,Sum of cash, check, note and credit should be same with the total amount.
--11001047,Total number of items¡¯ list in invoice should be under 99.
+-11001047,Total number of itemsÂ¡Â¯ list in invoice should be under 99.
 -11001048,Serial number of a list is not entered or it is out of the range.
 -11001049,Supply values of a list should be under 18 letters.
 -11001050,Item's quantity should be below 12 digits (available to two decimal places).
@@ -54,7 +54,7 @@
 -11001054,A revised e-Tax invoice can not be requested by buyer
 -11001055,Original e-Tax invoice/e-invoice doesn't exist.
 -11001056,Filing of original e-Tax invoice/e-invoice doesn't finish yet.
--11001057,Issuer's business registration number is not same with the original¡¯s.
+-11001057,Issuer's business registration number is not same with the originalÂ¡Â¯s.
 -11001058,Seller's business registration number is same with the buyer's.
 -11001061,If buyer type is the business, 10 digits' number should be entered as a business registration number.
 -11001062,If buyer type is the individual business, 13 digits' number should be entered as a resident registration number.
@@ -69,7 +69,7 @@
 -11001074,The person in charge can be added until 10 people.
 -11001075,Name of the person in charge is not entered.
 -11001076,Email address of the person in charge is not entered.
--11001077,In case of zero-rate or exempt e-Tax invoice/e-invoice, items¡¯ tax amount should be none or '0'.
+-11001077,In case of zero-rate or exempt e-Tax invoice/e-invoice, itemsÂ¡Â¯ tax amount should be none or '0'.
 -11001079,Information of the original e-Tax invoice is not entered in the revised invoice.
 -11001080,A revised invoice of exempted should be prepared with the exempted.
 -11001081,A revised invoice of taxable/zero-rate should be prepared with the taxable/zero-rate.
@@ -80,7 +80,7 @@
 -11001086,Seller's e-mail address should be below 100 letters.
 -11001087,Seller's memo should be below 200 letters.
 -11001088,Buyer's company name should be below 200 letters.
--11001089,Representative name of buyer¡¯s company should be below 100 letters.
+-11001089,Representative name of buyerÂ¡Â¯s company should be below 100 letters.
 -11001090,Buyer's address should be below 300 letters.
 -11001091,Buyer's contact should be below 20 digits.
 -11001092,Buyer's email address should be below 100 letters.
@@ -89,28 +89,28 @@
 -11001100,Remark1 should be below 150 letters.
 -11001101,Remark2 should be below 150 letters.
 -11001102,Remark3 should be below 150 letters.
--11001103,Date of preparation is incorrect. ¡æ The date is a day before 1978, as the first year of Korea VAT LAW enforcement.
+-11001103,Date of preparation is incorrect. Â¡Ã¦ The date is a day before 1978, as the first year of Korea VAT LAW enforcement.
 -11001104,Entered seller's business registration number is not same with the original's
 -11001105,Item's serial numbers are duplicated.
 -11001106,Serial number of the person in charge is not entered or it is out of range.
 -11001107,Serial numbers of the person in charge are duplicated.
--11001108,Buyer's resident registration number is incorrect. ¡æ Length error: it must be 13 digits.
+-11001108,Buyer's resident registration number is incorrect. Â¡Ã¦ Length error: it must be 13 digits.
 -11001109,Seller's department name should be below 100 letters.
 -11001110,Buyer's department name should be below 100 letters.
--10001112,Item¡¯s specification should be below 60 letters.
+-10001112,ItemÂ¡Â¯s specification should be below 60 letters.
 ,
 -11002001,You are not an user who creates this e-Tax invoice/e-Invoice.
 -11002005,It is not a deletable status.
 -11002009,To issue e-Tax invoice/e-invoice with future date of preparation is not available.
 -11002010,A revised invoice of post opening of local letter of credit can not be issued after the 20th of the next month as from the date of preparation.
 -11002012,Only the seller can issue it.
--11002013,It¡¯s not a status to issue.
--11002014,This e-Tax invoice is not available to be issued because it¡¯s an overdue.
--11002015,Penalty tax will be charged to this e-Tax invoice because it¡¯s an overdue.
+-11002013,ItÂ¡Â¯s not a status to issue.
+-11002014,This e-Tax invoice is not available to be issued because itÂ¡Â¯s an overdue.
+-11002015,Penalty tax will be charged to this e-Tax invoice because itÂ¡Â¯s an overdue.
 -11002021,Only the seller can cancel the issuance of e-Tax invoice.
--11002022,It¡¯s not available to cancel.
+-11002022,ItÂ¡Â¯s not available to cancel.
 -11002029,To modify an e-Tax invoice automatically registered is not available.
--11002030,It¡¯s not available to cancel the issuance.
+-11002030,ItÂ¡Â¯s not available to cancel the issuance.
 -11002032,Only the buyer can check issued e-Tax invoice/e-Invoice.
 -11002033,It's not available to check.
 -11002034,It has been checked by buyer.
@@ -120,8 +120,8 @@
 -11002038,Issuance cancellation is only available to (general) e-Tax invoice.
 -11002044,The e-Tax invoice/e-invoice registered by external XML can not be modified.
 -11002045,Paper invoice can not be modified.
--11002046,We don¡¯t support the handling of e-Tax invoice registered by external XML.
--11002047,We don¡¯t support the handling of paper invoice.
+-11002046,We donÂ¡Â¯t support the handling of e-Tax invoice registered by external XML.
+-11002047,We donÂ¡Â¯t support the handling of paper invoice.
 -11002048,Deletion of e-invoice registered from external is only available by the company registered that e-invoice.
 -11002050,This e-Tax invoice registered by API is not available to issue by the current user.
 -11002051,This e-Tax invoice have been issued.
@@ -172,7 +172,7 @@
 -11006001,Invalid XPath Expression
 -11006002,Seller's business registration number doesn't exist in external XML.
 -11006003,Buyer's business registration number doesn't exist in external XML.
--11006005,Seller¡¯s information of external XML to be registered is not matched with the user.
+-11006005,SellerÂ¡Â¯s information of external XML to be registered is not matched with the user.
 -11006006,Entered invoice ID has been in use.
 -11006007,External XML data to be verified is not entered. 
 -11006008,Schema of external XML is incorrect.
@@ -190,7 +190,7 @@
 -11010004,An error occurred in process of mapping of revised e-Tax invoice data.
 -11010005,It is a not supported URL path request.
 -11010006,Message body to be requested resending is incorrect.
--11010008,It¡¯s an incorrect type for invoice ID.
+-11010008,ItÂ¡Â¯s an incorrect type for invoice ID.
 -11010009,A date type for search scope is not entered.
 -11010010,Entered date type for search scope is incorrect.
 -11010011,A data format for search scope is incorrect.
