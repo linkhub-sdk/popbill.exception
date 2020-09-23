@@ -6,12 +6,12 @@
 -11000005,e-Tax invoice/e-Invoice Information of this invoice ID doesn¡¯t exist.
 -11000006,Itemkey should not be null or empty.
 -11000007,You are not a user related to this e-Tax invoice/e-Invoice.
--11000008,You don¡¯t have an authority to search the invoice.
--11000009,You don¡¯t have an authority to search the invoice.
+-11000008,You don't have an authority to search the invoice.
+-11000009,You don't have an authority to search the invoice.
 -11000010,Set the search scope as within a year.
 -11000011,To issue an e-Tax invoice is restricted because of inspection. Please retry when the inspection is done.
 ,
--11001000,User¡¯s information is not matched with the information written on the e-Tax invoice.
+-11001000,User's information is not matched with the information written on the e-Tax invoice.
 -11001001,Date of preparation is not entered.
 -11001002,Calculation method of supply values and tax amount is not entered.
 -11001003,A issuance type is not entered.
@@ -21,15 +21,15 @@
 -11001008,If taxation type is the taxation, e-Tax invoice¡¯s tax value can not be '0'.
 -11001009,A modification code is incorrect. ¡æ Entered value is not a digit from 1 to 6.
 -11001010,A revised e-Tax invoice caused by 'Return' and 'Cancellation of contract' is only registered with minus amount of supply values and tax.
--11001013,Seller¡¯s business registration number is not entered.
--11001014,Seller¡¯s business registration number is incorrect. ¡æ Length error : it must be 10 digits.
--11001015,Seller¡¯s company name is not entered.
+-11001013,Seller's business registration number is not entered.
+-11001014,Seller's business registration number is incorrect. ¡æ Length error : it must be 10 digits.
+-11001015,Seller's company name is not entered.
 -11001016,Name of representative of seller is not entered. 
 -11001018,Name of the person in charge of seller is incorrect. ¡æ Length Error : it must be below 100 letters.
 -11001019,Business registration number of minor place of seller's company is 4 digits.
--11001020,Buyer¡¯s business registration number is not entered.
--11001021,Buyer¡¯s business registration number is incorrect. ¡æ Length error : it must be 10 digits.
--11001022,Buyer¡¯s company name is not entered.
+-11001020,Buyer's business registration number is not entered.
+-11001021,Buyer's business registration number is incorrect. ¡æ Length error : it must be 10 digits.
+-11001022,Buyer's company name is not entered.
 -11001023,Name of representative of buyer is not entered.
 -10001025,Name of the person in charge of buyer is incorrect. ¡æ Length Error : it must be below 100 letters.
 -11001026,Business registration number of minor place of buyer's company is 4 digits.
