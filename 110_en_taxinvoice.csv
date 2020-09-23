@@ -17,8 +17,8 @@
 -11001003,A issuance type is not entered.
 -11001004,Type of the total amount is not entered. Enter one of '영수'(Amount paid) / '청구' (Amount due).
 -11001005,A taxation type is not entered.
--11001007,If the invoicee(buyer) is a foreigner, enter the alien registration number or passport number in remark1.
--11001008,If taxation type is the taxation, e-Tax invoice's tax value can not be '0'.
+-11001007,"If the invoicee(buyer) is a foreigner, enter the alien registration number or passport number in remark1."
+-11001008,"If taxation type is the taxation, e-Tax invoice's tax value can not be '0'."
 -11001009,A modification code is incorrect. → Entered value is not a digit from 1 to 6.
 -11001010,A revised e-Tax invoice caused by 'Return' and 'Cancellation of contract' is only registered with minus amount of supply values and tax.
 -11001013,Seller's business registration number is not entered.
