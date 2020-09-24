@@ -95,3 +95,7 @@
 -12010006,Message body for resending request is incorrect.
 -12010008,Sender's number for request an e-Statement by fax is not entered.
 -12010009,Recipient's number for request an e-Statement by fax is not entered.
+-12010010,An item code of e-Statement to attach is not entered.
+-12010011,An statement ID of e-Statement to attach is not entered.
+-12010012,An item code of e-Statement to detach is not entered. 
+-12010013,An statement ID of e-Statement to detach is not entered.
