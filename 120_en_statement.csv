@@ -1,0 +1,97 @@
+-12000000,Information of e-Statement does not exist.
+-12000001,The business is not associated with the applicable e-Statement.
+-12000002,Actor is Required to Process
+-12000003,This branch is not registered.
+-12000004,e-Statement Information of this statement ID doesn't exist.
+-12000005,No ItemKey
+-12000006,You don't have an authority to search the statement.
+-12000007,The statement information to be registered is not entered.
+-12000008,The statement information to be modified is not entered.
+-12000009,A customized template doesn't exist.
+,　
+-12001001,Entered user's information is not matched with the one of e-Statement.
+-12001002,Customer company is not entered.
+-12001003,The person in charge of customer company is not entered.
+-12001004,Email of the person in charge of customer company is not entered.
+-12001005,Supplier's business registration number is not entered.
+-12001006,Date of preparation is not entered.
+-12001007,Calculation method of supply values and tax amount is not entered.
+-12001008,Sum of item's supply values is not entered.
+-12001009,Taxation type is not entered.
+-12001010,Sum of item's tax amount is not entered.
+-12001011,Entered statement ID is incorrect.
+-12001012,Supplier's statement IDs are duplicated.
+-12001013,Total number of items' list in invoice should be under 99.
+-12001014,You are not an user who creates this e-Statement.
+-12001015,Supplier's business registration number is not entered.
+-12001016,Entered business registration number of supplier and customer are same.
+-12001017,Supply values of a list should be under 18 digits.
+-12001018,Item's quantity should be below 12 digits (available to two decimal places).
+-12001019,Item's unit price should be below 18 digits (available to two decimal places).
+-12001020,Tax amount of a list should be under 18 digits.
+-12001021,Serial number of a list is not entered or it is out of the range.
+-12001022,List's description should be below 100 letters.
+-12001023,Supplier's business registration number should be below 13 digits.
+-12001024,Supplier's company should be below 200 letters.
+-12001025,Supplier's representative name should be below 100 letters.
+-12001026,Supplier's address should be below 300 letters.
+-12001027,Supplier's business type should be below 100 letters.
+-12001028,Supplier's business item should be below 100 letters.
+-12001029,The person in charge of supplier company should be below 100 letters.
+-12001030,Department of the person in charge of supplier company should be below 100 letters.
+-12001031,Supplier's contact should be below 20 digits.
+-12001032,Supplier's email should be below 100 letters.
+-12001033,Supplier's memo should be below 200 letters.
+-12001034,Customer's business registration number should be below 13 digits.
+-12001035,Customer's company should be below 200 letters.
+-12001036,Customer's representative name should be below 100 letters.
+-12001037,Customer's address should be below 300 letters.
+-12001038,Customer's business type should be below 100 letters.
+-12001039,Customer's business item should be below 100 letters.
+-12001040,The person in charge of customer company should be below 100 letters.
+-12001041,Department of the person in charge of customer company should be below 100 letters.
+-12001042,Customer's contact should be below 20 digits.
+-12001043,Customer's email should be below 100 letters.
+-12001044,Customer's memo should be below 200 letters.
+-12001045,Serial number should be below 30 digits.
+-12001046,Remark1 should be below 150 letters.
+-12001047,Remark2 should be below 150 letters.
+-12001048,Remark3 should be below 150 letters.
+-12001049,Entered statement ID has been registered.
+-12001050,Entered serial number is duplicated.
+,
+-12002003,Deletion is not available now.
+-12002004,The user is not associated with the applicable e-Statement.
+-12002006,Cancellation is not available now
+-12002007,Only customer can confirm the statement.
+-12002008,Confirmation is not available now.
+-12002009,Only customer can deny the statement.
+-12002010,Deny is not available now.
+-12002011,To issue a statement automatically registered is available by a related document only.
+-12002012,The statement issued by integration system cannot be modified.
+-12002013,To delete an e-Statement is restricted by the partner.
+-12002014,This e-Statement registered by API is not available to issue by the current user.
+,　
+-12005000,Resending the notification mail is not available now.
+-12005001,Failed to save a fax file.
+-12005007,Supplier's number is not entered.
+-12005008,Customer's number is not entered.
+-12005009,Message content is not entered.
+-12005010,Supplier's number is not entered.
+-12005011,Customer's number is not entered.
+-12005012,Resending the notification mail is not available now or email address is not entered.
+-12005013,Resending a message is not available now.
+-12005014,Resending a fax is not available now.
+-12005015,PDF download is not supported in this customized template.
+-12005016,To send a fax is not supproted in this customized template.
+-12005017,e-Statement Information to be sent by fax is not entered.
+-12005018,Failed to generate a fax file to be sent
+,
+-12010001,No Input Body
+-12010002,e-Statement information is not entered.
+-12010003,Type of e-Statement is not entered.
+-12010004,An error occurs in process of mapping of e-Statement information.
+-12010005,It is a not supported URL path request.
+-12010006,Message body for resending request is incorrect.
+-12010008,Sender's number for request an e-Statement by fax is not entered.
+-12010009,Recipient's number for request an e-Statement by fax is not entered.
