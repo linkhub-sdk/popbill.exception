@@ -199,3 +199,22 @@
 -11010014,Type code of the statement to be detached is not entered.
 -11010015,Statement ID of the statement to be detached is not entered.
 -11010018,To download in PDF form is not available in current status.
+,
+-11010019,SubmitID is empty
+-11010020,Length of the submitID must not exceed 36
+-11010021,Message digest is empty
+-11010022,Invalid message digest
+-11010023,Invalid Json Message for bulk request
+-11010024,Taxinvoices were not exists on bulk request
+-11010025,IssueType is empty
+-11010026,IssueType [역발행] is not supported
+-11010027,InvoicerMgtKey is empty
+-11010028,InvoicerCorpNum does not match with user
+-11010029,Multiple InvoicerMgtKey is exists on same request
+-11010030,TrusteeMgtKey is empty
+-11010031,Multiple TrusteeMgtKey is exists on same request
+-11010032,Saving bulk process result to database failed
+-11010033,Bulk message queueing failed
+-11010034,SubmitID was already receipted
+-11010035,Bulk submission for [{SubmitID}] is not exists
+-11010036,Number of invoices of submission can not exceed 100.
