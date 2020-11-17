@@ -1,19 +1,19 @@
 -99999999,UNEXPECTED EXCEPTION
--99999998,½Ã½ºÅÛ Á¤±âÁ¤°ËÁßÀÔ´Ï´Ù.
--99900000,CODEGENERATOR ISN¡¯T INJECTED
--99900001,Ã¤¹ø½ÇÆÐ
--99900002,Áßº¹Ã³¸® ¹æÁö¸¦ À§ÇÑ Àá±ÝÀÌ ½ÇÆÐÇÏ¿´½À´Ï´Ù. Àá½ÃÈÄ Àç½Ãµµ ÇÏ½Ã±â ¹Ù¶ø´Ï´Ù.
--99900003,ÇØ´çÁ¤º¸°¡ Á¸ÀçÇÏÁö ¾Ê½À´Ï´Ù.[404]
+-99999998,ì‹œìŠ¤í…œ ì •ê¸°ì •ê²€ì¤‘ìž…ë‹ˆë‹¤.
+-99900000,CODEGENERATOR ISNâ€™T INJECTED
+-99900001,ì±„ë²ˆì‹¤íŒ¨
+-99900002,ì¤‘ë³µì²˜ë¦¬ ë°©ì§€ë¥¼ ìœ„í•œ ìž ê¸ˆì´ ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤. ìž ì‹œí›„ ìž¬ì‹œë„ í•˜ì‹œê¸° ë°”ëžë‹ˆë‹¤.
+-99900003,í•´ë‹¹ì •ë³´ê°€ ì¡´ìž¬í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤.[404]
 ,
 -99910001,Token encryption failed.
--99910002,ÇØ´ç ¼­ºñ½º¸¦ ÀÌ¿ëÇÒ ¼ö ¾ø´Â º¸¾È ÅäÅ« ¿äÃ»ÀÔ´Ï´Ù.
+-99910002,í•´ë‹¹ ì„œë¹„ìŠ¤ë¥¼ ì´ìš©í•  ìˆ˜ ì—†ëŠ” ë³´ì•ˆ í† í° ìš”ì²­ìž…ë‹ˆë‹¤.
 -99910003,No authorization information.
 -99910004,Token decyption failed.
--99910005,Token¡¯s ServiceID is mismatch.
+-99910005,Tokenâ€™s ServiceID is mismatch.
 -99910006,Token's ipaddress is mismatch.
--99910007,Token¡¯s expiration is malformed.
+-99910007,Tokenâ€™s expiration is malformed.
 -99910008,Token is expired
 -99910009,Date format parse error
--99910010,ÀÌ¸ÞÀÏ ±¸¼ºÁß ¿À·ù°¡ ¹ß»ýÇß½À´Ï´Ù.
+-99910010,ìž…ë ¥ê°’ ë§¤í•‘ì¤‘ ì˜¤ë¥˜ê°€ ë°œìƒí•˜ì˜€ìŠµë‹ˆë‹¤.	
 -99910011,Invalid PointAccountHolder Type or Code.
 -99910012,Invalid PointAccountHolder
