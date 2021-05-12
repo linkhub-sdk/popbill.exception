@@ -98,6 +98,10 @@
 -11001109,Seller's department name should be below 100 letters.
 -11001110,Buyer's department name should be below 100 letters.
 -10001112,Item's specification should be below 60 letters.
+-11001113,Seller's mobile number should be below 20 digits.
+-10001114,Customer's 1st mobile number should be below 20 digits.
+-10001115,Customer's 2nd mobile number should be below 20 digits.
+-10001117,Line item's remark should be below 100 letters.
 ,
 -11002001,You are not an user who creates this e-Tax invoice/e-Invoice.
 -11002005,It is not a deletable status.
